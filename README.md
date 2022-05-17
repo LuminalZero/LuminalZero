@@ -12,8 +12,8 @@
 I am a full stack developer with more than a decade of experience in building enterprise applications.
 
 - :construction_worker: I’m currently working on ninja stuff :secret:
-- :mortar_board: I’m currently learning parallel programming
-- :zap: I :heart: movies :movie_camera:
+- :mortar_board: I’m currently learning how to take over the universe! :milky_way:
+- :heart: movies :movie_camera:
 
 ## 🛠️ My Languages and Tools
 
