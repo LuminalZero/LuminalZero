@@ -2,6 +2,8 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt=":wave:">
 
+[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0077B5?labelColor=0077B5&logo=LinkedIn)](https://www.linkedin.com/in/justinross1983)&nbsp;![Profile views](https://gpvc.arturio.dev/LuminalZero)
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 This is where I break things :rofl:
@@ -14,9 +16,7 @@ This is where I break things :rofl:
 
 ## :bulb: About Me
 
-I am a Full Stack Developer with 10+ years of experience in developing enterprise applications.
-
-<a href="https://www.linkedin.com/in/justinross1983/"><img src="https://img.shields.io/badge/-@justinross1983-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/justinross1983/" alt="LinkedIn Badge"></a>
+I am a full stack developer with more than a decade of experience in building enterprise applications.
 
 ## 🛠️ My Languages and Tools
 
