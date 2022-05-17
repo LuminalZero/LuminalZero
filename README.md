@@ -1,4 +1,4 @@
-![alt](https://github.com/LuminalZero/LuminalZero/blob/master/header.png)
+![alt](/header.png)
 
 ### Hi there 👋
 
