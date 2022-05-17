@@ -2,6 +2,8 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt=":wave:">
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 This is where I break things :rofl:
 
 - :construction_worker: I’m currently working on ninja stuff :secret:
@@ -14,7 +16,10 @@ This is where I break things :rofl:
 
 I am a Full Stack Developer with 10+ years of experience in developing enterprise applications.
 
+<a href="https://www.linkedin.com/in/justinross1983/"><img src="https://img.shields.io/badge/-@justinross1983-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/justinross1983/" alt="LinkedIn Badge"></a>
+
 ## 🛠️ My Languages and Tools
+
 <p align="center">
   <a href="https://angular.io"><img alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" /></a>
   <a href="https://azure.microsoft.com"><img alt="Azure" title="Azure" src="https://skillicons.dev/icons?i=azure" /></a>
