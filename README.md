@@ -4,14 +4,17 @@
 
 This is where I break things :rofl:
 
-- :construction_worker: I’m currently working on me :wink:
+- :construction_worker: I’m currently working on ninja stuff :secret:
 - :mortar_board: I’m currently learning parallel programming
-- :speech_balloon: Ask me about movies :movie_camera:
+- :speech_balloon: Ask me about anything!
 - :mailbox: How to reach me: <a href="mailto:jross.software@gmail.com">jross.software@gmail.com</a>
-- :zap: Fun fact: I :heart: animals and horror movies!
+- :zap: Fun fact: I :heart: movies :movie_camera:
 
-## My Tech Stack
+## :bulb: About Me
 
+I am a Full Stack Developer with 10+ years of experience in developing enterprise applications.
+
+## 🛠️ My Languages and Tools
 <p align="center">
   <a href="https://angular.io"><img alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" /></a>
   <a href="https://azure.microsoft.com"><img alt="Azure" title="Azure" src="https://skillicons.dev/icons?i=azure" /></a>
@@ -42,7 +45,3 @@ This is where I break things :rofl:
   <a href="https://visualstudio.microsoft.com"><img alt="Visual Studio" title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" title="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
-
-## Random Meme
-
-![Random meme](https://random-memer.herokuapp.com/)
