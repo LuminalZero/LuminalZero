@@ -11,22 +11,24 @@
   <a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp"><img alt="C#" title="C#" src="https://skillicons.dev/icons?i=cs" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://dotnet.microsoft.com"><img alt=".NET" title=".NET" src="https://skillicons.dev/icons?i=dotnet" /></a>
-  <a href="https://git-scm.com"><img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 <p align="center">
+  <a href="https://dotnet.microsoft.com"><img alt=".NET" title=".NET" src="https://skillicons.dev/icons?i=dotnet" /></a>
+  <a href="https://git-scm.com"><img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com"><img alt="GitHub" title="GitHub" src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://about.gitlab.com"><img alt="GitLab" title="GitLab" src="https://skillicons.dev/icons?i=gitlab" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" /></a>
+</p>
+<p align="center">
   <a href="https://jquery.com"><img alt="jQuery" title="jQuery" src="https://skillicons.dev/icons?i=jquery" /></a>
   <a href="https://en.wikipedia.org/wiki/Markdown"><img alt="Markdown" title="Markdown" src="https://skillicons.dev/icons?i=md" /></a>
   <a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://docs.microsoft.com/en-us/powershell"><img alt="PowerShell" title="PowerShell" src="https://skillicons.dev/icons?i=powershell" /></a>
-</p>
-<p align="center">
   <a href="https://reactjs.org/"><img alt="React" title="React" src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://en.wikipedia.org/wiki/Regular_expression"><img alt="Regex" title="Regex" src="https://skillicons.dev/icons?i=regex" /></a>
+</p>
+<p align="center">
   <a href="https://sass-lang.com"><img alt="SASS" title="SASS" src="https://skillicons.dev/icons?i=sass" /></a>
   <a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://visualstudio.microsoft.com"><img alt="Visual Studio" title="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio" /></a>
