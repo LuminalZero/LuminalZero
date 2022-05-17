@@ -3,7 +3,7 @@
 
 # This is where I break things :rofl:
 
-[![jross.software@gmail.com](https://img.shields.io/badge/-jross.software@gmail.com-0879ba?logo=gmail&labelColor=555&logoColor=fff)](mailto:jross.software@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0879ba?logo=linkedin&labelColor=555)](https://www.linkedin.com/in/justinross1983)&nbsp;[![Ask Me Anything!](https://img.shields.io/badge/Ask%20Me-Anything-0879ba.svg)](https://GitHub.com/LuminalZero/ama)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=LuminalZero)
+[![jross.software@gmail.com](https://img.shields.io/badge/-jross.software@gmail.com-0879ba?logo=gmail&labelColor=555&logoColor=fff)](mailto:jross.software@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0879ba?logo=linkedin&labelColor=555)](https://www.linkedin.com/in/justinross1983)&nbsp;[![Ask Me Anything!](https://img.shields.io/badge/Ask%20Me-Anything-0879ba.svg)](https://GitHub.com/LuminalZero/AskMeAnything)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=LuminalZero)
 
 !["This is fine..."](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
