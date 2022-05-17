@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt=":wave:">
 
-[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0077B5?labelColor=0077B5&logo=LinkedIn)](https://www.linkedin.com/in/justinross1983)&nbsp;![Profile views](https://gpvc.arturio.dev/LuminalZero)
+[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0077B5?labelColor=0077B5&logo=LinkedIn)](https://www.linkedin.com/in/justinross1983)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=LuminalZero)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
