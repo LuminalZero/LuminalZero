@@ -1,22 +1,19 @@
+<!-- markdownlint-disable-file MD026 -->
 <!-- markdownlint-disable-file MD033 -->
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt=":wave:">
+# This is where I break things :rofl:
 
-[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0077B5?labelColor=0077B5&logo=LinkedIn)](https://www.linkedin.com/in/justinross1983)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=LuminalZero)
+[![jross.software@gmail.com](https://img.shields.io/badge/-jross.software@gmail.com-0879ba?logo=gmail&labelColor=555&logoColor=fff)](mailto:jross.software@gmail.com)&nbsp;[![LinkedIn](https://img.shields.io/badge/-@justinross1983-0879ba?logo=linkedin&labelColor=555)](https://www.linkedin.com/in/justinross1983)&nbsp;[![Ask Me Anything!](https://img.shields.io/badge/Ask%20Me-Anything-0879ba.svg)](https://GitHub.com/LuminalZero/ama)&nbsp;![Profile views](https://komarev.com/ghpvc/?username=LuminalZero)
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-This is where I break things :rofl:
-
-- :construction_worker: I’m currently working on ninja stuff :secret:
-- :mortar_board: I’m currently learning parallel programming
-- :speech_balloon: Ask me about anything!
-- :mailbox: How to reach me: <a href="mailto:jross.software@gmail.com">jross.software@gmail.com</a>
-- :zap: Fun fact: I :heart: movies :movie_camera:
+!["This is fine..."](https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## :bulb: About Me
 
 I am a full stack developer with more than a decade of experience in building enterprise applications.
+
+- :construction_worker: I’m currently working on ninja stuff :secret:
+- :mortar_board: I’m currently learning parallel programming
+- :zap: I :heart: movies :movie_camera:
 
 ## 🛠️ My Languages and Tools
 
