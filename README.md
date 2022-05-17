@@ -4,8 +4,6 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<br />
-
 This is where I break things :rofl:
 
 - :construction_worker: I’m currently working on ninja stuff :secret:
