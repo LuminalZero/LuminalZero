@@ -1,6 +1,14 @@
 <!-- markdownlint-disable-file MD033 -->
 
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt=":wave:">
+
+This is where I break things :rofl:
+
+- :construction_worker: I’m currently working on me :wink:
+- :mortar_board: I’m currently learning parallel programming
+- :speech_balloon: Ask me about movies :movie_camera:
+- :mailbox: How to reach me: <a href="mailto:jross.software@gmail.com">jross.software@gmail.com</a>
+- :zap: Fun fact: I :heart: animals and horror movies!
 
 ## My Tech Stack
 
